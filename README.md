@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio nuevo del M2
+Este proyecto es un prueba de como crear un repositorio y clonarlo de githup a mi escritorio local
